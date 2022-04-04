@@ -1,2 +1,2 @@
 this is my first file in git-demo
-
+This is line added in Git UI
